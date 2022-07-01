@@ -1,1 +1,0 @@
-# Calculator-phyton-on-gt.-GT5
